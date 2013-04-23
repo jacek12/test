@@ -12,3 +12,7 @@ int main(){
 void test1(int n){
     printf("jakis tekst");
 }
+
+void test2(int n){
+    printf("kolejny teskt")
+}
